@@ -1,2 +1,6 @@
 language: cpp
-script: main.cpp
+
+before_script:
+    - 
+script:
+    - 
