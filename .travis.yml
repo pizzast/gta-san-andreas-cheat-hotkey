@@ -1,6 +1,3 @@
-# Use new trusty images, should yield newer compilers and packages
-sudo: required
-dist: precise
 language: cpp
 
 env:
@@ -49,7 +46,4 @@ install:
     - cmake --version
 
 script:
-  - mkdir build
-  - cd build
-  - cmake ${CMAKE_OPTIONS} -DCMAKE_CXX_FLAGS=${CXX_FLAGS} -DCMAKE_CXX_COMPILER=$COMPILER -DCMAKE_BUILD_TYPE=ON -DBUILD_TESTS=ON .. && make
-  - make test
+  - 
