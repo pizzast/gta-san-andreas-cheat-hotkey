@@ -6,7 +6,14 @@ Cheat GTA San Andreas using hotkey without cheat codes.
 
 ### Getting Started
 
-I make this script using Dev C++.
+* git clone https://github.com/meagusp/gta-san-andreas-cheat-hotkey.git
+* cd gta-san-andreas-cheat-hotkey
+
+### Additional Ressources
+
+* [GTA San Andreas Memmory Addresses](https://www.gtamodding.com/wiki/Memory_Addresses_(SA))
+* [GetAsyncKeyState Function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646293(v=vs.85).aspx)
+* [Virtual-Key Codes](https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx)
 
 ### Contributing
 
