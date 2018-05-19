@@ -1,13 +1,16 @@
 # Gta San Andreas Cheat Hotkey
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/meagusp/gta-san-andreas-cheat-hotkey.svg?branch=master)](https://travis-ci.org/meagusp/gta-san-andreas-cheat-hotkey)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Cheat GTA San Andreas using hotkey without cheat codes.
 
 ### Getting Started
 
 * git clone https://github.com/meagusp/gta-san-andreas-cheat-hotkey.git
+
 * cd gta-san-andreas-cheat-hotkey
+
+* git log
 
 ### Additional Ressources
 
@@ -21,8 +24,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ### Prerequisite
 
-* C++.
-* Dev C++
+* Dev C++.
 
 ### Authors
 
